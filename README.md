@@ -1,2 +1,3 @@
-# patterns
-Project for testing different patterns and design solutions
+# Patterns
+
+Project for testing the patterns and design solutions
